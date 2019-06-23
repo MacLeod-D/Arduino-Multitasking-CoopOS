@@ -26,10 +26,10 @@
 <p></p>
 <b>More than 50 pages documentation !</b><br>
 <br>
-Extract the CoopOS_Stack_MT_Nano.zip file to your Arduino-sketch directory.
+Extract the CoopOS_Stack_MT_Nano.zip file with all features to your Arduino-sketch directory.
 <br>
 <br>
-But it is recommended to read the documentation and experiment at first with the Demo files.<br>
+But it is highly **recommended** to read the documentation and experiment at first with the Demo files.<br>
 
 
 This is the simple Demo0:
