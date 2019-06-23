@@ -29,8 +29,10 @@
 Extract the CoopOS_Stack_MT_Nano.zip file to your Arduino-sketch directory.
 <br>
 <br>
+But it is recommended to read the documentation and experiment at first with the Demo files.<br>
 
-This is a simple Demo:
+
+This is the simple Demo0:
 
 <blockquote>
 <pre><code class="language-C">
