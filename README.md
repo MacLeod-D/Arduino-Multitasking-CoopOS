@@ -11,7 +11,7 @@
  • Very easy to use even for beginners - nothing else comes close<br>
  • Usable for professionals<br>
  • Reliable timings<br>
- • Tasks have priorities<br>
+ • Tasks have priorities and own stacks<br>
  • Full documentation<br>
  • Compatible with all Arduino Libraries<br>
  • In the simplified form only one file to include<br>
