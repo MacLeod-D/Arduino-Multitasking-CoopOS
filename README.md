@@ -26,4 +26,5 @@
 <p></p>
 <b>More than 50 pages documentation !</b><br>
 <br>
+Extract the .zip file to your Arduino-sketch directory.
 
