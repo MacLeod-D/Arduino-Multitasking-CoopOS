@@ -14,7 +14,7 @@
  • Tasks have priorities<br>
  • Full documentation<br>
  • Compatible with all Arduino Libraries<br>
- • Not a librariy but only one file to include<br>
+ • In the simplified form only one file to include<br>
  • Could be combined with RTOS's as Idle-Task<br>
  • Easy to port to other processors
  • Valuable tools for development and tests
