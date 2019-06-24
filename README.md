@@ -31,13 +31,14 @@ Extract the CoopOS_Stack_MT_Nano.zip file with all features to your Arduino-sket
 <br>
 But it is highly **recommended** to read the documentation and experiment at first with the Demo files.<br>
 
+ ![Demo](./CooperativeMT.png?raw=true "Cooperative Multitasking")
 
-This is the simple Demo0:
+This is the simple Demo0 - here we use Cooperative Multitasking with stack-change!
 
 <blockquote>
 <pre><code class="language-C">
 
- ![Demo](./CooperativeMT.png?raw=true "Cooperative Multitasking")
+
 
 	//// CoopOS_Stack_MT - Demo   (C) 2019 Helmut Weber
 	//// Demo0
