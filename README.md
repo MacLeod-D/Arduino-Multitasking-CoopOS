@@ -37,7 +37,7 @@ This is the simple Demo0:
 <blockquote>
 <pre><code class="language-C">
 
- ![Demo](./CooperativeMT.jpg?raw=true "Cooperative Multitasking")
+ ![Demo](./CooperativeMT.png?raw=true "Cooperative Multitasking")
 
 	//// CoopOS_Stack_MT - Demo   (C) 2019 Helmut Weber
 	//// Demo0
