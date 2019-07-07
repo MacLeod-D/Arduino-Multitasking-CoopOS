@@ -19,7 +19,9 @@
  • Easy to port to other processors
  • Valuable tools for development and tests
 <h3> • 25000 (40 µs) TaskSwitches per second on Arduino-UNO / -NANO are possible<br>
- • Breakpoints<br>
+ • Breakpoints in source or with Debug-Button or serial input<br>
+ • Breakpoint may show last 20 scheduled tasks with timestamp 
+ • Watchdog-Interrupt to test Task Switching 
  • Up to <b>200000</b> Interrupts/s !</h3>
   <br>
 </blockquote>
