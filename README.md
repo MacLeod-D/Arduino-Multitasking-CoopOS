@@ -85,8 +85,9 @@ This is the simple Demo0 - here we use Cooperative Multitasking with stack-chang
 //// CoopOS_Stack_MT - Demo   (C) 2019 Helmut Weber
 //// Demo0
 
-With the final program "TheProgram" it is possible to proof with the WDTthat no task needs more than 100 µs !<br>
-That means: highly deterministic !<br>
+With the final program "TheProgram" it is possible to proof with the WDT<br>
+that no task needs more than **100 µs** !<br>
+That means: **highly deterministic** !<br>
 <br>
 
  ![Demo](./Timing.jpg?raw=true "Timing of the system")
