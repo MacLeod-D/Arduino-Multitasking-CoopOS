@@ -1,4 +1,4 @@
-**Arduino Multitasking Stackchange Beta 1.0**
+**Arduino Multitasking Stackchange Beta 1.1** July 8 2019
  
  CoopOS with Stackframes<br>
 
